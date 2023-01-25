@@ -1,0 +1,54 @@
+body{
+ font-family: sans-serif;
+ background-image: url(station.jpg);
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 100%;
+ text-align: center;
+}
+
+section{
+ max-width: 50%;
+ margin: auto;
+}
+
+h1, h2{
+ font-size: 3.5em;
+ color: white;
+}
+
+p{
+ font-size: 2.5em;
+ font-weight: bold;
+ color: white;
+}
+
+button{
+ font-size: 1.5em;
+ border-radius: 10px;
+ border: none;
+ color: white;
+ cursor: pointer;
+ padding: .3em 3em;
+ margin: 1em;
+}
+
+#add-btn{
+ background-color: rgb(220, 120, 150);
+}
+
+#minus-btn{
+ background-color: goldenrod;
+}
+
+#save-btn{
+ background-color: rgb(150, 220, 120);
+}
+
+#reset-btn{
+ background-color: orange;
+}
+
+
+
+
